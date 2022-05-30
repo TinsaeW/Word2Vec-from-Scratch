@@ -31,5 +31,5 @@ word vectors.To fetch the datasets run the datasets.sh file found utils director
 
 1. [Stanford CS224n lecture note](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf)
 2. [NLP’s word2vec: Negative Sampling Explained](https://www.baeldung.com/cs/nlps-word2vec-negative-sampling#:~:text=In%20a%20nutshell%2C%20by%20defining,they%20occur%20in%20different%20contexts.)
-3. [Word2vec Wikioedia](https://en.wikipedia.org/wiki/Word2vec)
+3. [Word2vec Wikipedia](https://en.wikipedia.org/wiki/Word2vec)
 4. [cs224n-stanford-winter2021](https://github.com/parachutel/cs224n-stanford-winter2021)
