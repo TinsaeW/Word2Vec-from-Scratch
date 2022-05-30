@@ -4,9 +4,6 @@
 The Word2vec algorithm uses a neural network model to learn word associations from a large corpus of text.
 
 This repository contains a python notebook explaining the theory behind and the code implementation of word2vec
-## Badges
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
 
 
